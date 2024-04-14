@@ -38,7 +38,7 @@ namespace Bme121
             string currentTurn = playerWhite;
             string response = "";
 
-            // gameplay
+            // play game
             while(response != "quit" && checkGameOn())
             {
                 if (currentTurn == playerBlack) Write("{0} enter a move: ", blackDisc);
