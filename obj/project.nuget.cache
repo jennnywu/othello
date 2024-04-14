@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QtBAnMhGq7dSxjXtgYV2rBfC51MjQad+/Ukrx0+wm82sUtxhhkFcRl9b0x2YkCElitEstIdIuKvKrgW8saVHSA==",
+  "dgSpecHash": "8FMICv+3GAX2ekwt/pECjOy0w4wQUhT+nqUWlxDSXKQ0RJWN6nC0HO4G3iLBhBLlFWs29XL1BdV9FfxOv7lNnw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jenny\\Desktop\\bme121\\pa1\\template.csproj",
+  "projectFilePath": "C:\\Users\\jenny\\Desktop\\bme121\\Othello\\Othello.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
